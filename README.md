@@ -1,8 +1,8 @@
-👉 This is a form, an exercise to practice the use of the various types of HTML forms and CSS styling. 
+👉 Exercício de form feito usando HTML e CSS. 
 <br>
-📄 Practices in @mediaQueries were also used to make the site as responsive as possible!
+📄 Praticando em @mediaQueries para deixar o site responsivo!
 <br>
-❕The image (1) represents the site used as an example and the following images (2, 3, 4) are the ones taken.
+❕A img (1) representa o site usado como exemplo e as seguintes (2,3,4) são os resultados.
 <hr>
 📌 Image (1)
 
